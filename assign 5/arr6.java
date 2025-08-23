@@ -22,7 +22,8 @@ class A1{
             System.out.print(arr[i] + " ");
                 }   
             }
+            System.out.println(" shubham has changed someything ");
         }
 
 
-      
+      //this shubham who n=made the changwe 
